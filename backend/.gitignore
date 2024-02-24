@@ -1,0 +1,11 @@
+# Ignore virtual environments
+myvenv/
+sayedvenv/
+
+# Ignore function deployment zip file
+function.zip
+
+# Ignore sensitive configuration files
+dbconn.py
+.env
+config.ini
