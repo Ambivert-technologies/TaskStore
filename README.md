@@ -13,26 +13,8 @@ TODO:
 
 Table of Contents
 
-Installation: #installation
-Backend (FastAPI): #backend-fastapi
-Frontend (Vue.js): #frontend-vuejs
-Contributors: #contributors [Sayed](https://github.com/SK-SAYED-AKTAR) 
-License: 
-Acknowledgments: #acknowledgments (Optional)
-
-Installation
-
-Clear and step-by-step instructions on how to set up the project's environment and dependencies:
-
-Open http://localhost:8080 (or the specified port) in your web browser.
-Contributing
-
-Guidelines for how others can contribute to your project, including:
-
-Forking the repository
-Creating a new branch for your changes
-Writing clear and concise commit messages
-Submitting pull requests for review
-License
-
-Specify the license under which your project is distributed, such as MIT, Apache, or GPL. You can add a LICENSE file to your repository containing the full license text.
+Installation: 
+Backend: FastAPI
+Frontend: Vue.js
+Contributors: [Sayed](https://github.com/SK-SAYED-AKTAR) 
+License: Bhai Bindas - MIT
