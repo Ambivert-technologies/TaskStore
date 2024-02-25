@@ -65,3 +65,9 @@ People can also request custom scripts from the community.
 #### Who ?
 
 All tech and non tech people using any Deskstop OS will be able to use the app.
+
+## Roadmap
+
+- Todo: Currently the scripts run via panel required them to run on the borwser itself
+
+- Todo: Look a way around to rebuid the taskstore panel or eliminate it
