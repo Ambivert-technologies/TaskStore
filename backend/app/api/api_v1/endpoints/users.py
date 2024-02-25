@@ -56,7 +56,7 @@ MYS3_CLIENT2 = session.client('s3')
 
 @router.get("/")
 def index():
-    return {"msg": f"Backend Running Successfully..."}
+    return {"msg": f"Backend Running Successfully...."}
 
 
 @router.post("/register")
