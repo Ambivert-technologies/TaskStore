@@ -37,6 +37,7 @@ https://youtu.be/vjZCUrC_tfU
   <img src="https://contrib.rocks/image?repo=Ambivert-technologies/TaskStore" alt="Contributors" />
 </a>
 
+Special thanks to Sayed to bring this thing live.
 
 ## Tech Stack
 
