@@ -1,0 +1,46 @@
+{
+  "name": "vue-soft-ui-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "2.10.2",
+    "@vue-stripe/vue-stripe": "^4.4.2",
+    "axios": "^0.25.0",
+    "bootstrap": "5.1.3",
+    "chart.js": "3.6.0",
+    "core-js": "3.6.5",
+    "jkanban": "^1.3.1",
+    "sweetalert2": "^11.4.0",
+    "vue": "3.2.0",
+    "vue-axios": "^3.4.1",
+    "vue-carousel-3d": "^1.0.1",
+    "vue-flatpickr-component": "9.0.5",
+    "vue-image-slider": "^1.0.2",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^4.0.0-0",
+    "vue2-editor": "^2.10.3",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@cashfreepayments/cashfree-sdk": "^0.1.7",
+    "@types/vue2-editor": "^2.6.1",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "3.2.0",
+    "@vue/eslint-config-prettier": "6.0.0",
+    "babel-eslint": "10.1.0",
+    "eslint": "6.7.2",
+    "eslint-plugin-prettier": "3.3.1",
+    "eslint-plugin-vue": "7.0.0",
+    "prettier": "2.2.1",
+    "sass": "1.43.3",
+    "sass-loader": "10.1.1"
+  }
+}

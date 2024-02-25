@@ -1,0 +1,12 @@
+================ ############ ================
+================ SCRIPT STORE ================
+================ ############ ================
+Key Pressed => 'h'
+Key Pressed => 'g'
+Key Pressed => 'h'
+Key Pressed => 'g'
+Key Pressed => Key.enter
+Key Pressed => 'h'
+Key Pressed => 'g'
+Key Pressed => 'h'
+Key Pressed => 'g'
